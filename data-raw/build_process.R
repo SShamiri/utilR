@@ -28,4 +28,11 @@ gitcreds::gitcreds_set() # if password changed
 ### github setup
 usethis::use_github() # this create a repo on github
 
+### create vignettee
+usethis::use_vignette("UtilR")
+devtools::build_vignettes()
+browseURL("doc/UtilR.html")
 
+###  Set up pkgdown
+#usethis::use_pkgdown()
+usethis::use_pkgdown_github_pages() # for github
