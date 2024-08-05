@@ -39,7 +39,8 @@ usethis::use_pkgdown_github_pages() # for github
 # add logo
 usethis::use_logo("inst/figures/logo.png")
 
-
+usethis::use_github_action()
+usethis::use_github_actions_badge()
 
 
 ## Logo
