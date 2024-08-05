@@ -43,15 +43,15 @@ usethis::use_logo("inst/figures/logo.png")
 
 
 ## Logo
-library(hexSticker)
-
-imgurl <- "/Users/samuelshamiri/Downloads/jobs_skills_australia_logo.jpeg"
-sticker(imgurl,
-        package="utilityJSA",
-        p_size=20,
-        s_x=1,
-        s_y=.75,
-        s_width=.5,
-        h_fill="#2f005f", h_color="#f39c12",
-        #dpi = 1000,
-        filename="inst/figures/logo.png")
+# library(hexSticker)
+#
+# imgurl <- "/Users/samuelshamiri/Downloads/jobs_skills_australia_logo.jpeg"
+# sticker(imgurl,
+#         package="utilityJSA",
+#         p_size=20,
+#         s_x=1,
+#         s_y=.75,
+#         s_width=.5,
+#         h_fill="#2f005f", h_color="#f39c12",
+#         #dpi = 1000,
+#         filename="inst/figures/logo.png")

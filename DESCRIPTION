@@ -1,6 +1,6 @@
 Package: utilR
 Date: 2024-08-01
-Title: Collection of useful R funtions
+Title: Collection of useful R funtions JSA
 Version: 0.0.0.9000
 Authors@R: 
     person("Samuel", "Shamiri", , "samuelshamiri@yahoo.com", role = c("aut", "cre"),
