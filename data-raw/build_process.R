@@ -42,6 +42,15 @@ usethis::use_logo("inst/figures/logo.png")
 usethis::use_github_action()
 usethis::use_github_actions_badge()
 
+### testing
+usethis::use_testthat(3) # this done once for package
+# unit test
+#usethis::use_r("fun_name")
+#usethis::use_testthat("fun_name")
+
+
+
+
 
 ## Logo
 # library(hexSticker)
