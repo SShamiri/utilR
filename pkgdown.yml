@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  UtilR: UtilR.html
+last_built: 2024-08-10T03:17Z
+urls:
+  reference: https://sshamiri.github.io/utilR/reference
+  article: https://sshamiri.github.io/utilR/articles
